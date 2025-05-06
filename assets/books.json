@@ -1,0 +1,122 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "ISBN": "9780743273565",
+        "year": null
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "ISBN": null,
+        "year": null
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": null,
+        "ISBN": null,
+        "year": 2005
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": null,
+        "ISBN": "9780316769488",
+        "year": null
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "ISBN": null,
+        "year": null
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "ISBN": "9781451673319",
+        "year": null
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "ISBN": null,
+        "year": null
+    },
+    {
+        "title": "Brave New World",
+        "author": null,
+        "ISBN": "9780060850524",
+        "year": 1965
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "ISBN": "9780399501487",
+        "year": null
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": null,
+        "ISBN": "9780143039433",
+        "year": null
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "ISBN": "9780385333849",
+        "year": null
+    },
+    {
+        "title": "Catch-22",
+        "author": null,
+        "ISBN": null,
+        "year": null
+    },
+    {
+        "title": "Beloved",
+        "author": null,
+        "ISBN": "9781400033416",
+        "year": 1970
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "ISBN": null,
+        "year": 2010
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": null,
+        "ISBN": null,
+        "year": null
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": null,
+        "ISBN": null,
+        "year": 1940
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": null,
+        "ISBN": null,
+        "year": 1955
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "ISBN": "9780679734505",
+        "year": 1985
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": null,
+        "ISBN": "9780486400778",
+        "year": 1950
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "ISBN": "9780307389732",
+        "year": null
+    }
+]
